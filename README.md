@@ -5,7 +5,7 @@
 ### 🎓 Estudiante de Ingeniería de Sistemas | 7mo Semestre
 ### 🌎 Colombia · Socorro, Santander
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack;Builder+de+productos+SaaS;Apasionado+por+la+IA)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack;Builder+de+productos+SaaS)](https://readme-typing-svg.demolab.com)
 
 </div>
 
