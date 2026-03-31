@@ -120,8 +120,14 @@ Movie club management app with MVC architecture. Modules for members, film catal
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=manuelguarguati&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelguarguati&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelguarguati&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelguarguati&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelguarguati&theme=github_dark" />
 
 </div>
 
@@ -147,14 +153,13 @@ Movie club management app with MVC architecture. Modules for members, film catal
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=manuelguarguati&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&show=prs_merged,prs_merged_percentage,discussions_started,reviews&count_private=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelguarguati&theme=github_dark&utcOffset=-5" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelguarguati&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelguarguati&theme=github_dark&utcOffset=-5" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelguarguati&theme=github_dark" />
 
 </div>
@@ -188,4 +193,5 @@ $ ping manuel --channels
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer)
 
 </div>
+
 
