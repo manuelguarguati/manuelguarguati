@@ -1,4 +1,4 @@
-!-- Header Banner -->
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&animation=fadeIn)
