@@ -5,7 +5,7 @@
 ### 🎓 Estudiante de Ingeniería de Sistemas | 7mo Semestre
 ### 🌎 Colombia · Socorro, Santander
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack;Builder+de+productos+SaaS;Apasionado+por+la+IA+y+la+tecnolog%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack;Builder+de+productos+SaaS;Apasionado+por+la+IA)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -72,6 +72,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Manuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelguarguati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelguarguati&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuelguarguati&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -79,7 +90,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuel-fernando-guarguati-guarguati-2b0717343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-fernando-guarguati-guarguati-2b0717343)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelguarguati2016@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuelguarguati)
 
