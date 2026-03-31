@@ -36,7 +36,6 @@ const manuel = {
   mantra   : "Learn. Build. Repeat. ⚡",
   interests: ["Artificial Intelligence", "Tech Entrepreneurship", "Full Stack Dev"],
   learning : ["System Design", "AI APIs", "SaaS Architecture"],
-  methods  : ["PMBOK", "Agile", "MVC"],
 };
 ```
 
@@ -87,10 +86,10 @@ const manuel = {
 
 ### ⬡ TECHUS
 ```
-type    : SaaS Platform
-status  : 🟢 In development
-stack   : Next.js · Supabase · Gemini AI
-          Tailwind · Vercel · PayPal
+type   : SaaS Platform
+status : 🟢 In development
+stack  : Next.js · Supabase · Gemini AI
+         Tailwind · Vercel · PayPal
 ```
 Platform for businesses to manage their Facebook pages, schedule content and generate images with AI. 4-tier subscription system with integrated payments.
 
@@ -101,12 +100,12 @@ Platform for businesses to manage their Facebook pages, schedule content and gen
 
 ### ⬡ CineClub
 ```
-type    : Web App · Academic
-status  : 🔵 Completed
-stack   : Java · JSP · Servlets
-          MySQL · Tomcat 9 · NetBeans
+type   : Web App · Academic
+status : 🔵 Completed
+stack  : Java · JSP · Servlets
+         MySQL · Tomcat 9 · NetBeans
 ```
-Movie club management app with MVC architecture. Modules for members, film catalog and sessions with role-based access control.
+Movie club management app with MVC architecture. Members, film catalog and sessions with role-based access control.
 
 [![Repo](https://img.shields.io/badge/view_repo-161b22?style=flat-square&logo=github)](https://github.com/manuelguarguati)
 
@@ -116,7 +115,7 @@ Movie club management app with MVC architecture. Modules for members, film catal
 
 ---
 
-## `~/stats`
+## `~/github`
 
 <div align="center">
 
@@ -126,14 +125,15 @@ Movie club management app with MVC architecture. Modules for members, film catal
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelguarguati&theme=github_dark" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelguarguati&theme=github_dark" />
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=manuelguarguati&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=manuelguarguati&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelguarguati&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelguarguati&theme=github_dark&utcOffset=-5" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelguarguati&theme=github_dark" />
 
 </div>
 
@@ -144,23 +144,6 @@ Movie club management app with MVC architecture. Modules for members, film catal
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manuelguarguati&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)
-
-</div>
-
----
-
-## `~/metrics`
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelguarguati&theme=github_dark&utcOffset=-5" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelguarguati&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelguarguati&theme=github_dark" />
 
 </div>
 
@@ -193,5 +176,6 @@ $ ping manuel --channels
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer)
 
 </div>
+
 
 
