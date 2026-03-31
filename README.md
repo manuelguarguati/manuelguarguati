@@ -1,7 +1,6 @@
-
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&animation=fadeIn)
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -19,7 +18,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Construyendo+TECHUS+%E2%86%92+SaaS;Next.js+%7C+Supabase+%7C+Gemini+AI;Colombia+%E2%86%92+building+for+the+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+TECHUS+%E2%86%92+SaaS+with+AI;Next.js+%7C+Supabase+%7C+Gemini+AI;Learning+something+new+every+day;Colombia+%E2%86%92+building+for+the+world)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,9 +30,11 @@
 const manuel = {
   name     : "Manuel Fernando Guarguati",
   location : "Socorro, Santander · Colombia 🇨🇴",
-  study    : "Ingeniería de Sistemas · 7mo semestre",
-  building : "TECHUS — SaaS de gestión Facebook + IA",
-  interests: ["Inteligencia Artificial", "Emprendimiento Tech", "Full Stack Dev"],
+  study    : "Systems Engineering · 7th Semester",
+  building : "TECHUS — Facebook management SaaS + AI",
+  passion  : "Building apps that help people every day",
+  mantra   : "Learn. Build. Repeat. ⚡",
+  interests: ["Artificial Intelligence", "Tech Entrepreneurship", "Full Stack Dev"],
   learning : ["System Design", "AI APIs", "SaaS Architecture"],
   methods  : ["PMBOK", "Agile", "MVC"],
 };
@@ -43,7 +44,7 @@ const manuel = {
 
 ## `~/stack`
 
-**Lenguajes**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -57,20 +58,20 @@ const manuel = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend & DB**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 
-**IA & APIs**
+**AI & APIs**
 
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**DevOps & Herramientas**
+**DevOps & Tools**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -87,27 +88,27 @@ const manuel = {
 ### ⬡ TECHUS
 ```
 type    : SaaS Platform
-status  : 🟢 En desarrollo
+status  : 🟢 In development
 stack   : Next.js · Supabase · Gemini AI
-         Tailwind · Vercel · PayPal
+          Tailwind · Vercel · PayPal
 ```
-Plataforma para negocios colombianos que gestiona páginas de Facebook, programa contenido y genera imágenes con IA. Sistema de 4 tiers con pagos integrados.
+Platform for businesses to manage their Facebook pages, schedule content and generate images with AI. 4-tier subscription system with integrated payments.
 
-[![Repo](https://img.shields.io/badge/ver_repo-161b22?style=flat-square&logo=github)](https://github.com/manuelguarguati)
+[![Repo](https://img.shields.io/badge/view_repo-161b22?style=flat-square&logo=github)](https://github.com/manuelguarguati)
 
 </td>
 <td width="50%">
 
 ### ⬡ CineClub
 ```
-type    : Web App · Académico
-status  : 🔵 Completado
+type    : Web App · Academic
+status  : 🔵 Completed
 stack   : Java · JSP · Servlets
-         MySQL · Tomcat 9 · NetBeans
+          MySQL · Tomcat 9 · NetBeans
 ```
-Gestión de club de películas con arquitectura MVC. Módulos de miembros, catálogo de películas y sesiones con control de acceso por roles.
+Movie club management app with MVC architecture. Modules for members, film catalog and sessions with role-based access control.
 
-[![Repo](https://img.shields.io/badge/ver_repo-161b22?style=flat-square&logo=github)](https://github.com/manuelguarguati)
+[![Repo](https://img.shields.io/badge/view_repo-161b22?style=flat-square&logo=github)](https://github.com/manuelguarguati)
 
 </td>
 </tr>
@@ -173,7 +174,7 @@ $ ping manuel --channels
 ![Visitors](https://komarev.com/ghpvc/?username=manuelguarguati&color=58a6ff&style=flat-square&label=profile+views)
 
 ```
-// gracias por visitar · thanks for stopping by
+// thanks for stopping by · keep building 🚀
 ```
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=80&section=footer)
